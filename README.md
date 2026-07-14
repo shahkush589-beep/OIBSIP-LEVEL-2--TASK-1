@@ -35,7 +35,7 @@ Calculator/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/shahkush589-beep/calculator.git
 ```
 
 2. Navigate to the project folder
@@ -45,44 +45,6 @@ cd calculator
 ```
 
 3. Open `index.html` in your preferred web browser.
-
-No additional software or dependencies are required.
-
-## 💻 Screenshot
-
-> Add a screenshot of your calculator here after uploading it.
-
-Example:
-
-```
-images/calculator.png
-```
-
-Then display it using:
-
-```md
-![Calculator Screenshot](images/calculator.png)
-```
-
-## 📖 Learning Outcomes
-
-This project helped me understand:
-
-- DOM Manipulation
-- Event Handling in JavaScript
-- Arithmetic Operations
-- User Input Handling
-- Responsive Layout using CSS Grid
-- JavaScript Functions and Conditional Statements
-
-## 🔮 Future Improvements
-
-- Keyboard input support
-- Scientific calculator functions
-- Calculation history
-- Percentage and square root operations
-- Theme switcher (Dark/Light Mode)
-- Support for complex expressions using multiple operators
 
 ## 👨‍💻 Author
 
